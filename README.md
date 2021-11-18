@@ -2,3 +2,7 @@
 
 ## Purpose
 The goal of this project was to create a webpage that could display the data we have gathered on UFOs in a more dynamic way. This is accomplished by adding multiple filters the user can choose from including date, city, state, and country in order to refine their search. 
+
+##Results
+![](https://github.com/Stkaran/UFOs/blob/main/Resources/filtersearch.png)
+![](https://github.com/Stkaran/UFOs/blob/main/Resources/displaytable.png) 
